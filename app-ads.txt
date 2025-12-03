@@ -1,0 +1,7 @@
+# app-ads.txt for Galaxy Vanguard
+# This file validates app ownership for ad networks
+# Package name: com.thpereiras.galaxyvanguard
+# Publisher ID from AdMob: ca-app-pub-6426690868223400
+
+# Google AdMob
+google.com, pub-6426690868223400, DIRECT, f08c47fec0942fa0
